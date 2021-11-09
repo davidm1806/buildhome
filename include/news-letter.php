@@ -7,7 +7,7 @@
                         <div class="col-lg-8 py-4">
                             <div class="row">
                                 <div class="col-md-6 d-flex align-items-center">
-                                    <h2 class="mb-0" style="color:white; font-size: 24px;">Subcribe to our Newsletter</h2>
+                                    <h2 class="mb-0" style="color:white; font-size: 24px;">Subcrire aux news letters</h2>
                                 </div>
                                 <div class="col-md-6 d-flex align-items-center">
                                     <form action="#" class="subscribe-form">

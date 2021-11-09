@@ -65,7 +65,7 @@
 			center: true,
 			loop: true,
 			items:1,
-			margin: 30,
+			margin: 40,
 			stagePadding: 0,
 			nav: false,
 			navText: ['<span class="ion-ios-arrow-back">', '<span class="ion-ios-arrow-forward">'],
@@ -78,9 +78,35 @@
 				},
 				1000:{
 					items: 3
-				}
+				},
+
 			}
 		});
+
+	  $('.carousel-partner').owlCarousel({
+		  loop:true,
+		  margin:30,
+		  nav: false,
+		  stagePadding: 0,
+		  autoplay: true,
+		  autoplayTimeout: 1000,
+		  smartSpeed: 1000,
+		  autoplayHoverPause: true,
+		  responsive:{
+			  0:{
+				  items:1
+			  },
+			  600:{
+				  items:2
+			  },
+			  1000:{
+				  items:4
+			  },
+			  1600: {
+			  	items: 5
+			  }
+		  }
+	  })
 
 	};
 	carousel();

@@ -32,8 +32,8 @@
       <div class="container">
         <div class="row no-gutters slider-text align-items-end">
           <div class="col-md-9 ftco-animate pb-5">
-          	<p class="breadcrumbs mb-2"><span class="mr-2"><a href="index.php">Home <i class="ion-ios-arrow-forward"></i></a></span> <span>Team <i class="ion-ios-arrow-forward"></i></span></p>
-            <h1 class="mb-0 bread">Meet the Team</h1>
+          	<p class="breadcrumbs mb-2"><span class="mr-2"><a href="index.php">Accueil <i class="ion-ios-arrow-forward"></i></a></span> <span> Services <i class="ion-ios-arrow-forward"></i></span></p>
+            <h1 class="mb-0 bread">Nos services </h1>
           </div>
         </div>
       </div>
@@ -47,8 +47,8 @@
 	            <div class="flipper">
 	              <div class="front" style="background-image: url(/images/team-1.jpg);">
 	                <div class="box">
-	                  <h2>Ryan Anderson</h2>
-	                  <p>Head Engineer</p>
+	                  <h2>Construction</h2>
+                      <p></p>
 	                </div>
 	              </div>
 	              <div class="back">
@@ -60,7 +60,7 @@
 	                  <div class="image align-self-center">
 	                    <img src="images/team-1.jpg" alt="">
 	                  </div>
-	                  <div class="name align-self-center ml-3">Ryan Anderson <span class="position">Head Engineer</span></div>
+	                  <div class="name align-self-center ml-3">Construction <span class="position"></span></div>
 	                </div>
 	              </div>
 	            </div>
@@ -71,8 +71,8 @@
 	            <div class="flipper">
 	              <div class="front" style="background-image: url(/images/team-2.jpg);">
 	                <div class="box">
-	                  <h2>Greg Washer</h2>
-	                  <p>Head Engineer</p>
+	                  <h2>Renovation</h2>
+	                  <p></p>
 	                </div>
 	              </div>
 	              <div class="back">
@@ -84,7 +84,7 @@
 	                  <div class="image align-self-center">
 	                    <img src="images/team-2.jpg" alt="">
 	                  </div>
-	                  <div class="name align-self-center ml-3">Greg Washer<span class="position">Head Engineer</span></div>
+	                  <div class="name align-self-center ml-3">Renovation<span class="position"></span></div>
 	                </div>
 	              </div>
 	            </div>
@@ -95,8 +95,8 @@
 	            <div class="flipper">
 	              <div class="front" style="background-image: url(/images/team-3.jpg);">
 	                <div class="box">
-	                  <h2>Tony Henderson</h2>
-	                  <p>Ass. Engineer</p>
+	                  <h2>PLANS 3D & 2D</h2>
+	                  <p></p>
 	                </div>
 	              </div>
 	              <div class="back">
@@ -108,7 +108,7 @@
 	                  <div class="image align-self-center">
 	                    <img src="images/team-3.jpg" alt="">
 	                  </div>
-	                  <div class="name align-self-center ml-3">Tony Henderson <span class="position">Ass. Engineer</span></div>
+	                  <div class="name align-self-center ml-3">Plans 3D & 2D<span class="position"></span></div>
 	                </div>
 	              </div>
 	            </div>
@@ -119,8 +119,8 @@
 	            <div class="flipper">
 	              <div class="front" style="background-image: url(/images/team-4.jpg);">
 	                <div class="box">
-	                  <h2>Jack Smith</h2>
-	                  <p>Architect</p>
+	                  <h2>Bornage et lotissement de terrains</h2>
+	                  <p></p>
 	                </div>
 	              </div>
 	              <div class="back">
@@ -132,7 +132,7 @@
 	                  <div class="image align-self-center">
 	                    <img src="images/team-4.jpg" alt="">
 	                  </div>
-	                  <div class="name align-self-center ml-3">Jack Smith <span class="position">Architect</span></div>
+	                  <div class="name align-self-center ml-3">Bornage et lotissement de terrains<span class="position"></span></div>
 	                </div>
 	              </div>
 	            </div>
@@ -144,8 +144,8 @@
 	            <div class="flipper">
 	              <div class="front" style="background-image: url(/images/team-5.jpg);">
 	                <div class="box">
-	                  <h2>Ryan Anderson</h2>
-	                  <p>President</p>
+	                  <h2>Expertise en amenagement paysagiste et en construction de briques de terre stabilisée</h2>
+	                  <p></p>
 	                </div>
 	              </div>
 	              <div class="back">
@@ -157,7 +157,7 @@
 	                  <div class="image align-self-center">
 	                    <img src="images/team-5.jpg" alt="">
 	                  </div>
-	                  <div class="name align-self-center ml-3">Ryan Anderson <span class="position">President</span></div>
+	                  <div class="name align-self-center ml-3">Expertise en amenagement paysagiste et en construction de briques de terre stabilisée <span class="position"></span></div>
 	                </div>
 	              </div>
 	            </div>
@@ -168,8 +168,8 @@
 	            <div class="flipper">
 	              <div class="front" style="background-image: url(/images/team-6.jpg);">
 	                <div class="box">
-	                  <h2>Greg Washer</h2>
-	                  <p>Chief Executive Officer</p>
+	                  <h2>Etude environnementale</h2>
+	                  <p></p>
 	                </div>
 	              </div>
 	              <div class="back">
@@ -181,7 +181,7 @@
 	                  <div class="image align-self-center">
 	                    <img src="images/team-6.jpg" alt="">
 	                  </div>
-	                  <div class="name align-self-center ml-3">Greg Washer<span class="position">Chief Executive Officer</span></div>
+	                  <div class="name align-self-center ml-3"><span class="position">Etude environnementale</span></div>
 	                </div>
 	              </div>
 	            </div>
@@ -192,8 +192,8 @@
 	            <div class="flipper">
 	              <div class="front" style="background-image: url(/images/team-7.jpg);">
 	                <div class="box">
-	                  <h2>Tony Henderson</h2>
-	                  <p>Contractor Operation Head</p>
+	                  <h2>Location et Vente : Station et drones</h2>
+	                  <p></p>
 	                </div>
 	              </div>
 	              <div class="back">
@@ -205,31 +205,7 @@
 	                  <div class="image align-self-center">
 	                    <img src="images/team-7.jpg" alt="">
 	                  </div>
-	                  <div class="name align-self-center ml-3">Tony Henderson <span class="position">Contractor Operation Head</span></div>
-	                </div>
-	              </div>
-	            </div>
-	          </div>
-        	</div>
-        	<div class="col-lg-3 col-sm-6">
-        		<div class="block-2 ftco-animate">
-	            <div class="flipper">
-	              <div class="front" style="background-image: url(/images/team-8.jpg);">
-	                <div class="box">
-	                  <h2>Jack Smith</h2>
-	                  <p>Chief Financial Officer</p>
-	                </div>
-	              </div>
-	              <div class="back">
-	                <!-- back content -->
-	                <blockquote>
-	                  <p>&ldquo;Even the all-powerful Pointing has no control about the blind texts it is an almost unorthographic life One day however a small line of blind text &rdquo;</p>
-	                </blockquote>
-	                <div class="author d-flex">
-	                  <div class="image align-self-center">
-	                    <img src="images/team-8.jpg" alt="">
-	                  </div>
-	                  <div class="name align-self-center ml-3">Jack Smith <span class="position">Chief Financial Officer</span></div>
+	                  <div class="name align-self-center ml-3">Location et Vente : Station et drones <span class="position"></span></div>
 	                </div>
 	              </div>
 	            </div>

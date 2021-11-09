@@ -37,8 +37,8 @@
 	          <div class="row no-gutters slider-text align-items-center justify-content-center">
 		          <div class="col-md-12 ftco-animate">
 		          	<div class="text w-100 text-center">
-		          		<h2>We're here to help you</h2>
-			            <h1 class="mb-3">Home Builder</h1>
+		          		<h2> Nous sommes là pour vous  </h2>
+			            <h1 class="mb-3">Universal Public Works</h1>
 		            </div>
 		          </div>
 		        </div>
@@ -51,8 +51,8 @@
 	          <div class="row no-gutters slider-text align-items-center justify-content-center">
 		          <div class="col-md-12 ftco-animate">
 		          	<div class="text w-100 text-center">
-		          		<h2>Best Builder in the World</h2>
-			            <h1 class="mb-3">We Build Home</h1>
+		          		<h2> Votre satisfaction, notre préoccupation </h2>
+			            <h1 class="mb-3"> Nous construisons vos maisons </h1>
 		            </div>
 		          </div>
 		        </div>
@@ -65,8 +65,8 @@
 	          <div class="row no-gutters slider-text align-items-center justify-content-center">
 		          <div class="col-md-12 ftco-animate">
 		          	<div class="text w-100 text-center">
-		          		<h2>We Build Your Home</h2>
-			            <h1 class="mb-3">Professional Builder</h1>
+		          		<h2>Nous construisons et realisons vos projets</h2>
+			            <h1 class="mb-3"> Du professionalisme </h1>
 		            </div>
 		          </div>
 		        </div>
@@ -79,8 +79,8 @@
                     <div class="row no-gutters slider-text align-items-center justify-content-center">
                         <div class="col-md-12 ftco-animate">
                             <div class="text w-100 text-center">
-                                <h2>We Build Your Home</h2>
-                                <h1 class="mb-3">Professional Builder</h1>
+                                <h2>Nous construisons et realisons vos projets</h2>
+                                <h1 class="mb-3">Du professionalisme</h1>
                             </div>
                         </div>
                     </div>
@@ -100,7 +100,8 @@
               </div>
               <div class="media-body p-2 mt-3">
                 <h3 class="heading">Construction</h3>
-                <p>Even the all-powerful Pointing has no control about the blind texts it is an almost unorthographic.</p>
+                <p> Nous prenons en charge vos gros travaux de construction et de rehabilitation de maison.
+                    Equipée  du matériel adapté pour realiser un travail à la fois fiable et rapide</p>
               </div>
             </div>      
           </div>
@@ -110,8 +111,10 @@
             		<span class="flaticon-skyline"></span>
               </div>
               <div class="media-body p-2 mt-3">
-                <h3 class="heading">House Renovation</h3>
-                <p>Even the all-powerful Pointing has no control about the blind texts it is an almost unorthographic.</p>
+                <h3 class="heading">Renovation</h3>
+                <p> Si vous souhaitez remettre à neuf les facades de votre immeuble,
+                    votre specialiste en renovation saura vous conseillez selon votre cas.
+                </p>
               </div>
             </div>    
           </div>
@@ -121,19 +124,19 @@
             		<span class="flaticon-stairs"></span>
               </div>
               <div class="media-body p-2 mt-3">
-                <h3 class="heading">Painting</h3>
-                <p>Even the all-powerful Pointing has no control about the blind texts it is an almost unorthographic.</p>
+                <h3 class="heading">Conception Architecturale </h3>
+                <p>Nous mettons sur pied une excellente conception de plan enfin de realiser vos projets.</p>
               </div>
-            </div>      
+            </div>
           </div>
           <div class="col-md-3 d-flex services align-self-stretch p-4 py-md-5 ftco-animate">
             <div class="media block-6 d-block text-center pt-md-4">
               <div class="icon d-flex justify-content-center align-items-center">
-            		<span class="flaticon-home"></span>
+            		<span class="flaticon-Employee"></span>
               </div>
               <div class="media-body p-2 mt-3">
-                <h3 class="heading">Architecture Design</h3>
-                <p>Even the all-powerful Pointing has no control about the blind texts it is an almost unorthographic.</p>
+                <h3 class="heading"> Location et Vente </h3>
+                <p> Nous vous fournissons  du materiel de construction pour vos travaux.</p>
               </div>
             </div>      
           </div>
@@ -145,7 +148,7 @@
 	    					<span class="flaticon-engineer"></span>
 	    				</div>
 	    				<div class="text">
-	      				<h3>Expert &amp; Professional</h3>
+	      				<h3>Expert & Professionnel</h3>
 	      				<p class="mb-0">Separated they live in. A small river named Duden flows</p>
 	    				</div>
 	    			</div>
@@ -156,7 +159,7 @@
 	    					<span class="flaticon-engineer-1"></span>
 	    				</div>
 	    				<div class="text">
-	      				<h3>High Quality Work</h3>
+	      				<h3> Travail de haute qualité </h3>
 	      				<p class="mb-0">Separated they live in. A small river named Duden flows</p>
 	      			</div>
 	      		</div>
@@ -167,7 +170,7 @@
 	    					<span class="flaticon-engineer-2"></span>
 	    				</div>
 	    				<div class="text">
-	      				<h3>24/7 Help Support</h3>
+	      				<h3>24/7 Support d'aide </h3>
 	      				<p class="mb-0">Separated they live in. A small river named Duden flows</p>
 	      			</div>
 	      		</div>
@@ -175,107 +178,18 @@
     		</div>
     	</div>
     </section>
-   	
-    <section class="ftco-section ftco-no-pt ftco-no-pb">
-    	<div class="container">
-    		<div class="row d-flex no-gutters">
-    			<div class="col-md-6 d-flex">
-    				<div class="img img-video d-flex align-self-stretch align-items-center justify-content-center justify-content-md-end" style="background-image:url(images/about.jpg);">
-    					<a href="https://vimeo.com/45830194" class="icon-video popup-vimeo d-flex justify-content-center align-items-center">
-    						<span class="icon-play"></span>
-    					</a>
-    				</div>
-    			</div>
-    			<div class="col-md-6 pl-md-5">
-    				<div class="row justify-content-start py-5">
-		          <div class="col-md-12 heading-section ftco-animate pl-md-4 py-md-4">
-		          	<span class="subheading">Welcome to Home Builder</span>
-		            <h2 class="mb-4">We create and turn into reality</h2>
-		            <p>Far far away, behind the word mountains, far from the countries Vokalia and Consonantia</p>
-		            <div class="tabulation-2 mt-4">
-									<ul class="nav nav-pills nav-fill d-md-flex d-block">
-									  <li class="nav-item mb-md-0 mb-2">
-									    <a class="nav-link active py-2" data-toggle="tab" href="#home1">Our Mission</a>
-									  </li>
-									  <li class="nav-item px-lg-2 mb-md-0 mb-2">
-									    <a class="nav-link py-2" data-toggle="tab" href="#home2">Our Vision</a>
-									  </li>
-									  <li class="nav-item">
-									    <a class="nav-link py-2 mb-md-0 mb-2" data-toggle="tab" href="#home3">Our Value</a>
-									  </li>
-									</ul>
-									<div class="tab-content bg-light rounded mt-2">
-									  <div class="tab-pane container p-0 active" id="home1">
-									  	<p>Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. Separated they live in Bookmarksgrove right at the coast of the Semantics, a large language ocean. Separated they live in Bookmarksgrove right at the coast of the Semantics, a large language ocean.</p>
-									  </div>
-									  <div class="tab-pane container p-0 fade" id="home2">
-									  	<p>Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. Separated they live in Bookmarksgrove right at the coast of the Semantics, a large language ocean. Separated they live in Bookmarksgrove right at the coast of the Semantics, a large language ocean.</p>
-									  </div>
-									  <div class="tab-pane container p-0 fade" id="home3">
-									  	<p>Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. Separated they live in Bookmarksgrove right at the coast of the Semantics, a large language ocean. Separated they live in Bookmarksgrove right at the coast of the Semantics, a large language ocean.</p>
-									  </div>
-									</div>
-								</div>
-		          </div>
-		        </div>
-	        </div>
-        </div>
-    	</div>
-    </section>
 
-    <section class="ftco-counter" id="section-counter">
-    	<div class="container">
-				<div class="row">
-          <div class="col-md-6 col-lg-3 d-flex justify-content-center counter-wrap ftco-animate">
-            <div class="block-18 d-flex">
-              <div class="text d-flex align-items-center">
-                <strong class="number" data-number="50">0</strong>
-              </div>
-              <div class="text-2">
-              	<span>Years of <br>Experienced</span>
-              </div>
-            </div>
-          </div>
-          <div class="col-md-6 col-lg-3 d-flex justify-content-center counter-wrap ftco-animate">
-            <div class="block-18 d-flex">
-              <div class="text d-flex align-items-center">
-                <strong class="number" data-number="8500">0</strong>
-              </div>
-              <div class="text-2">
-              	<span>Project <br>Done</span>
-              </div>
-            </div>
-          </div>
-          <div class="col-md-6 col-lg-3 d-flex justify-content-center counter-wrap ftco-animate">
-            <div class="block-18 d-flex">
-              <div class="text d-flex align-items-center">
-                <strong class="number" data-number="378">0</strong>
-              </div>
-              <div class="text-2">
-              	<span>Professional <br>Expert</span>
-              </div>
-            </div>
-          </div>
-          <div class="col-md-6 col-lg-3 d-flex justify-content-center counter-wrap ftco-animate">
-            <div class="block-18 d-flex">
-              <div class="text d-flex align-items-center">
-                <strong class="number" data-number="1200">0</strong>
-              </div>
-              <div class="text-2">
-              	<span>Machineries <br>Equipments</span>
-              </div>
-            </div>
-          </div>
-        </div>
-    	</div>
-    </section>
+  <?php include 'include/about-us.php'?>
+
+  <?php include 'include/compteur.php' ?>
 
     <?php include 'include/realisation.php'?>
     <?php include 'include/testimonies.php'?>
+    <?php include 'include/partner.php'?>
 
 
 
-    <section class="ftco-section">
+   <!-- <section class="ftco-section">
       <div class="container">
         <div class="row justify-content-center mb-5 pb-3">
           <div class="col-md-7 heading-section text-center ftco-animate">
@@ -328,7 +242,7 @@
           </div>
         </div>
       </div>
-    </section>
+    </section>-->
 
 
   <?php include 'include/news-letter.php' ?>

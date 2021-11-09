@@ -23,8 +23,8 @@
             <ul class="navbar-nav mr-auto">
                 <li class="nav-item <?php if($href === '' || $href === 'index.php') echo 'active'?>"><a href="index.php" class="nav-link">Accueil</a></li>
                 <li class="nav-item <?php if($href==='about.php') echo 'active'?>"><a href="about.php" class="nav-link">Qui sommes nous</a></li>
-                <li class="nav-item <?php if($href==='team.php') echo 'active'?>"><a href="team.php" class="nav-link">Notre équipe</a></li>
-                <li class="nav-item <?php if($href==='project.php') echo 'active'?>"><a href="project.php" class="nav-link">Projet</a></li>
+                <li class="nav-item <?php if($href==='team.php') echo 'active'?>"><a href="team.php" class="nav-link">Services </a></li>
+                <li class="nav-item <?php if($href==='project.php') echo 'active'?>"><a href="project.php" class="nav-link">Projets</a></li>
 <!--                <li class="nav-item"><a href="blog.php" class="nav-link">Blog</a></li>-->
                 <li class="nav-item <?php if($href==='contact.php') echo 'active'?>"><a href="contact.php" class="nav-link">Contact</a></li>
             </ul>
