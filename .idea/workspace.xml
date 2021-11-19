@@ -192,10 +192,9 @@
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="72" />
-    <option name="y" value="27" />
-    <option name="width" value="1848" />
-    <option name="height" value="1053" />
+    <option name="x" value="1992" />
+    <option name="width" value="1208" />
+    <option name="height" value="1024" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -271,18 +270,17 @@
       <workItem from="1636102594178" duration="811000" />
       <workItem from="1636317352372" duration="2986000" />
       <workItem from="1636358065704" duration="72000" />
-      <workItem from="1636383080995" duration="9330000" />
+      <workItem from="1636383080995" duration="9982000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="30836000" />
+    <option name="totallyTimeSpent" value="31488000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="72" y="27" width="1848" height="1053" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.28246394" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.28246394" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -300,8 +298,8 @@
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="8" />
       <window_info anchor="bottom" id="Database Changes" order="9" />
-      <window_info anchor="bottom" id="Terminal" order="10" weight="0.33071747" />
-      <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" visible="true" weight="0.3295964" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="10" sideWeight="0.49944505" visible="true" weight="0.33071747" />
+      <window_info anchor="bottom" id="Event Log" order="11" sideWeight="0.5005549" side_tool="true" visible="true" weight="0.33071747" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
